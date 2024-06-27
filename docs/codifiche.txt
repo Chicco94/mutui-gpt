@@ -1,0 +1,12 @@
+
+COD_TIPO_TASSO	
+o	00: Tasso Fisso
+o	02: Tasso Variabile
+o	03:  Tasso Misto
+
+
+COD_DIGIT_CAP_FLOOR	
+o	N = Nessuno
+o	1 = Floor
+o	2 = Cap
+o	3 = Entrambi
