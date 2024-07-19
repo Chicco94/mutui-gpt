@@ -10,3 +10,12 @@ o	N = Nessuno
 o	1 = Floor
 o	2 = Cap
 o	3 = Entrambi
+
+
+COD_STATO_RAPPORTO
+o	O = Operativo
+o	R = Revocato - Quando un rapporto viene annullato prima di essere reso operativo
+o	B = Bloccato
+o	E = Estinto
+o	A = Annullato
+o	N = Non operativo
